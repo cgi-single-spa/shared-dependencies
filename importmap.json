@@ -8,6 +8,7 @@
       "@angular/common/http": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__common@13.3.0/system/es2020/ivy/angular-http.min.js",
       "@angular/compiler": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__compiler@13.3.0/system/es2020/ivy/angular-compiler.min.js",
       "@angular/platform-browser": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser@13.3.1/system/es2020/ivy/angular-platform-browser.min.js",
+      "@angular/platform-browser/animations": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser@13.3.1/es2020/ivy/angular-animations.min.js",
       "@angular/platform-browser-dynamic": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic@13.3.1/system/es2020/ivy/angular-platform-browser-dynamic.min.js",
       "@angular/animations": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__animations@13.3.0/system/es2020/ivy/angular-animations.min.js",
       "@angular/router": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__router@13.3.1/system/es2020/ivy/angular-router.min.js",
