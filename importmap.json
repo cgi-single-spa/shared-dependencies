@@ -10,6 +10,8 @@
       "@angular/platform-browser-dynamic": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__platform-browser-dynamic@13.3.1/system/es2020/ivy/angular-platform-browser-dynamic.min.js",
       "@angular/animations": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__animations@13.3.0/system/es2020/ivy/angular-animations.min.js",
       "@angular/router": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__router@13.3.1/system/es2020/ivy/angular-router.min.js",
-      "@angular/forms": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms@13.3.1/system/es2020/ivy/angular-forms.min.js"
+      "@angular/forms": "https://cdn.jsdelivr.net/npm/@esm-bundle/angular__forms@13.3.1/system/es2020/ivy/angular-forms.min.js",
+      "rxjs": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@7.5.0/system/es2015/rxjs.min.js",
+      "single-spa-angular": "https://unpkg.com/@esm-bundle/single-spa-angular@6.3.1/system/es2020/ivy/angular-single-spa-angular.min.js"
     }
 }
