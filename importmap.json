@@ -17,6 +17,7 @@
       "rxjs": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@7.5.0/system/es2015/rxjs.min.js",
       "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@7.5.0/system/es2015/rxjs-operators.min.js",
       "single-spa-angular": "https://cdn.jsdelivr.net/npm/@esm-bundle/single-spa-angular@6.3.1/system/es2020/ivy/angular-single-spa-angular.js",
-      "single-spa-angular/internals": "https://cdn.jsdelivr.net/npm/@esm-bundle/single-spa-angular@6.3.1/system/es2020/ivy/angular-single-spa-angular-internals.js"
+      "single-spa-angular/internals": "https://cdn.jsdelivr.net/npm/@esm-bundle/single-spa-angular@6.3.1/system/es2020/ivy/angular-single-spa-angular-internals.js",
+      "vue": "https://cdn.jsdelivr.net/npm/vue@3.2.13/dist/vue.runtime.global.prod.js"
     }
 }
